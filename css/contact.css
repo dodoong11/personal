@@ -1,0 +1,61 @@
+#contact{
+  height:100%;
+  display: flex;
+  align-items: center;
+  background-color: #EEEAEA;
+ }
+ 
+ #contact div.wrap {
+   
+ }
+ #contact h2 {
+   
+ }
+ #contact p:nth-of-type(1) {
+   
+ }
+ #contact ul.list {
+   
+ }
+ #contact ul.list li {
+   
+ }
+ #contact ul.list li strong {
+   
+ }
+ #contact a.qna {
+   
+ }
+ #contact ul.sns {
+   
+ }
+ #contact ul.sns li {
+   
+ }
+ #contact ul.sns li a {
+   
+ }
+ #contact h3 {
+   
+ }
+ #contact p:nth-of-type(2) {
+   
+ }
+ #contact .sourcesite{
+
+ }
+ #contact .sourcesite h3{
+
+ }
+ #contact .sourcesite p{
+  
+ }
+ #contact ul.src {
+   
+ }
+ #contact ul.src li {
+   
+ }
+ #contact ul.src li a {
+   
+ }

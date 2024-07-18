@@ -23,8 +23,9 @@ Scss
 ACCUNIQ https://pageservice.github.io/pf1/
 
 ## 스크린샷 또는 데모(포트폴리오 웹사이트의 스크린샷을 추가)
-![pf1](https://github.com/pageservice/personal/assets/71798491/040b7316-5c4c-4a09-b7e8-6c54d60ec832)
-![pf2](https://github.com/pageservice/personal/assets/71798491/1a7c723b-1e1b-4cb6-9f45-6b17b89482e9)
+![pf1]![image]![image](https://github.com/user-attachments/assets/6bb44f43-2ced-4f6b-812e-f92d30c65b4e)
+![pf2]![image](https://github.com/user-attachments/assets/92b09c90-448d-43f7-b175-9eed1a694590)
+
 ![pf1-어큐닉](https://github.com/pageservice/personal/assets/71798491/3e7a5d1c-3326-4ffc-ac79-3fe4a96fe6a3)
 ![pf4](https://github.com/pageservice/personal/assets/71798491/e8b59bed-76df-470c-8aec-71f580ab6cca)
 
